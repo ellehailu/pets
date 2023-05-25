@@ -1,9 +1,11 @@
 .hat p {
     font-style: italic;
+    text-align: center;
 }
 
 .hat h2 {
-    color: aquamarine
+    color: purple;
+    text-align: center;
 }
 
 .hat {
@@ -12,6 +14,12 @@
 }
 
 .hat img {
-    width: 300px;
+    width: 70%;
     height: auto;
+    border: 20px solid green;
+    margin: 15px;
+}
+
+.hat h3 {
+    text-align: center;
 }

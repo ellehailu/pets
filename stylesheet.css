@@ -1,7 +1,17 @@
-.description p {
+.hat p {
     font-style: italic;
 }
 
-.description h2 {
+.hat h2 {
     color: aquamarine
+}
+
+.hat {
+    width: 300px;
+    float: left;
+}
+
+.hat img {
+    width: 300px;
+    height: auto;
 }
